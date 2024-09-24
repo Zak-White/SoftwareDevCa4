@@ -6,6 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Games Dev/SoftwareDevCa4/CollegeSimulator/Content/Maps/Mine.umap",
+				"D:/Games Dev/SoftwareDevCa4/CollegeSimulator/Content/BP_Actors/Torch.uasset",
+				"D:/Games Dev/SoftwareDevCa4/CollegeSimulator/Content/Interfaces/PickUp.uasset",
+				"D:/Games Dev/SoftwareDevCa4/CollegeSimulator/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/Games Dev/CollegeDaySimulator/CollegeSimulator/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Games Dev/CollegeDaySimulator/CollegeSimulator/Content/ThirdParty/PN_FoliageCollection/Maps/ExampleLandscape.umap",
 				"D:/Games Dev/CollegeDaySimulator/CollegeSimulator/Content/ThirdParty/PN_FoliageCollection/Maps/ContentShowroom.umap",
